@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "watch": "vite"
+    },
+    "devDependencies": {
+        "axios": "^1.4.0",
+        "laravel-echo": "^1.15.1",
+        "laravel-vite-plugin": "^0.7.2",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14",
+        "pusher-js": "^8.0.2",
+        "vite": "^4.2.2",
+        "vue-loader": "^17.0.1"
+    },
+    "dependencies": {
+        "@ably/laravel-echo": "^1.0.2",
+        "ably": "^1.2.39",
+        "express": "^4.18.2",
+        "socket.io": "^4.6.1",
+        "vue": "^3.2.36"
+    }
+}
