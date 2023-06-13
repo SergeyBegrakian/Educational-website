@@ -1,0 +1,26 @@
+.cont{
+    margin-left: 200px;
+    margin-top: 70px;
+}
+.logo{
+    width: 150px;
+    height: 20px;
+    margin-top: 10px;
+   margin-left: 20px;
+}
+
+.footer{
+    margin-left: 22px;
+    font-size: 15px;
+}
+.logout{
+
+    margin-top: -20px;
+    margin-left: 1220px;
+}
+
+#information{
+    margin-top: 20px;
+    margin-left: 40px;
+  
+}

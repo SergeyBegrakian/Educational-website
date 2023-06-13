@@ -1,0 +1,89 @@
+.form{
+    border-color: rgb(209, 207, 205);
+    border-radius: 10px;
+    width: 1150px;
+  }
+  .form-control{
+    height: 40px;
+  }
+  .form1{
+    border-color: rgb(209, 207, 205);
+    border-radius: 10px;
+    width:500px ;
+
+  }
+label {
+  margin-right: 515px;
+    }
+
+    label1 {
+  margin-right: 1070px;
+    }
+
+    label2 {
+
+  margin-right: 530px;
+    }
+
+    label4 {
+
+margin-right: 1090px;
+}
+
+.logo{
+    margin-left: 10px;
+    margin-top: 50px;
+}
+.account{
+    margin-top: 10px;
+    margin-left:-1050px;
+    padding: 5px 15px;
+    border-radius: 20px;
+    color: white;
+    background-color:rgb(255, 185, 80);
+}
+.account1{
+    margin-top: -20px;
+        margin-left:1250px;
+
+        border-radius: 20px;
+        color: white;
+        background-color:rgb(255, 185, 80);
+    }
+ .update{
+    background-color: rgb(142, 142, 148);
+ }   
+
+ .setting{
+    margin-left: 550px;
+ }
+
+ .forma{
+
+    margin-left: 100px;
+    border-radius: 20px;
+    background-color:rgb(255, 255, 255);
+    border: none;
+    color: white;
+    padding: 6px 25px;
+    text-align: center;
+    text-decoration: none;
+   
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+ }
+
+ .courses{
+    margin-top: 10px;
+    margin-left:-1050px;
+    padding: 5px 15px;
+    border-radius: 20px;
+    color: white;
+    background-color:rgb(255, 185, 80);
+    margin-left: 1140px;
+ }
+
+.avatar {
+  width: 200px;
+}
